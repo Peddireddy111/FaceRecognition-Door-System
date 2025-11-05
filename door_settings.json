@@ -1,0 +1,5 @@
+{
+  "CONF_THRESHOLD": 75.0,
+  "VOTE_FRAMES": 5,
+  "OPEN_HOLD": 4.0
+}
