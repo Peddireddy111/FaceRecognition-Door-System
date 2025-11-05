@@ -12,9 +12,9 @@ This system detects known faces, opens the virtual door with a welcome message, 
 
 | Door Closed | Door Opened |
 |-------------|-------------|
-| ![Door Closed](images/door_clo![Uploading Screenshot (54).png…]()
-sed_sample.png) | ![Door Open](images/<img width="2880" height="1800" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/fb2ef274-3208-472d-a1c4-68fe38473ace" />
-door_open_sample.png) |
+| ![Door Closed](<img width="2880" height="1800" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/c540a9df-ce3c-40e0-833b-4793e32113cc" />
+) | ![Door Open](<img width="2880" height="1800" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/77bcc5a1-abf6-4183-9df3-ad6e4e1b4b20" />
+) |
 
 📌 Create an `images/` folder in your GitHub and place 2 screenshots with names:
 - `door_closed_sample.png`
